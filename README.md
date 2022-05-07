@@ -34,4 +34,4 @@ To stop just close program
 
 - Tiffany (Scholar) for giving the idea
 - Moses for wanting to use the program
-- Creater: Silas
+- Creator: Silas
