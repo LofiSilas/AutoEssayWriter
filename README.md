@@ -1,4 +1,4 @@
-# AutoEssayWriter 1.2
+# AutoEssayWriter 1.4
 
 For all the lazy people out there, or people wanting to get full marks, this is the software for you!
 
@@ -7,6 +7,8 @@ By using this softwarer, it can autotype your pre-written essay that operates no
 ## Update
 
 Version 1.2 is just a small update, allowing you to physically type without crashing the program.
+
+Version 1.4 allows you to customize your wait time and wpm
 
 ## How-To-Use
 
