@@ -1,4 +1,4 @@
-# AutoEssayWriter 1.4
+# AutoEssayWriter 2.0
 
 For all the lazy people out there, or people wanting to get full marks, this is the software for you!
 
